@@ -1,0 +1,8 @@
+C:\Users\bisha\source\repos\week6-hotelapp\HotelAppWeek6\HotelAppWeek6\bin\Debug\HotelAppWeek6.exe.config
+C:\Users\bisha\source\repos\week6-hotelapp\HotelAppWeek6\HotelAppWeek6\bin\Debug\HotelAppWeek6.exe
+C:\Users\bisha\source\repos\week6-hotelapp\HotelAppWeek6\HotelAppWeek6\bin\Debug\HotelAppWeek6.pdb
+C:\Users\bisha\source\repos\week6-hotelapp\HotelAppWeek6\HotelAppWeek6\obj\Debug\HotelAppWeek6.csproj.AssemblyReference.cache
+C:\Users\bisha\source\repos\week6-hotelapp\HotelAppWeek6\HotelAppWeek6\obj\Debug\HotelAppWeek6.csproj.CoreCompileInputs.cache
+C:\Users\bisha\source\repos\week6-hotelapp\HotelAppWeek6\HotelAppWeek6\obj\Debug\HotelAppWeek6.exe
+C:\Users\bisha\source\repos\week6-hotelapp\HotelAppWeek6\HotelAppWeek6\obj\Debug\HotelAppWeek6.pdb
+C:\Users\bisha\source\repos\week6-hotelapp\HotelAppWeek6\HotelAppWeek6\obj\Debug\HotelAppWeek6.exe.config
